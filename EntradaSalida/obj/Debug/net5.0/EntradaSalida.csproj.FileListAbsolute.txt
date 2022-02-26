@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.exe
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.deps.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.runtimeconfig.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.runtimeconfig.dev.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\ref\EntradaSalida.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\bin\Debug\net5.0\EntradaSalida.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.AssemblyInfo.cs
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\ref\EntradaSalida.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\EntradaSalida\obj\Debug\net5.0\EntradaSalida.genruntimeconfig.cache

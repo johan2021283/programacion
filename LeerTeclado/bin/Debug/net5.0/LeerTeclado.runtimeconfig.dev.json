@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dell Latitude 3190\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dell Latitude 3190\\.nuget\\packages"
+    ]
+  }
+}

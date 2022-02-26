@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.exe
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.deps.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.runtimeconfig.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.runtimeconfig.dev.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\ref\tipoDedatos.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\bin\Debug\net5.0\tipoDedatos.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.AssemblyInfo.cs
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\ref\tipoDedatos.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\tipoDedatos\obj\Debug\net5.0\tipoDedatos.genruntimeconfig.cache

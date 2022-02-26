@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.exe
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.deps.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.runtimeconfig.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.runtimeconfig.dev.json
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\ref\MiPrimerPrograma.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.AssemblyInfo.cs
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\ref\MiPrimerPrograma.dll
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.pdb
+C:\Users\Dell Latitude 3190\Desktop\Progrmas.Csharp\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.genruntimeconfig.cache
